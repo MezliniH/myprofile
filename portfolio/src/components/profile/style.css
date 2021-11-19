@@ -1,0 +1,26 @@
+img
+
+{    
+     margin:20px;
+     height:210px ;
+     width:310px;
+     border-radius: 50% ;
+     
+}
+div
+ {
+     border-radius: 62px;
+     background: linear-gradient(145deg, #7a7c78, #92948e);
+     box-shadow:  32px 32px 65px #747571,
+                 -32px -32px 65px #9c9f99;
+     height: 700px; 
+     width:700x;
+     
+
+ }
+ body
+{ 
+ background-image: linear-gradient(to left bottom, #aaabab, #a3a8a8, #9ca6a6, #95a3a3, #8ea0a0, #889b9c, #839798, #7d9294, #788a8e, #748387, #6f7b80, #6b7479);
+
+}
+
